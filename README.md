@@ -30,7 +30,11 @@ If you have any questions, suggestions, or want to collaborate please don't hesi
 ````
 ## Trained Models
 
-*Coming soon*
+We provide the following full-trained DistilBERT-based IDCM model (cascading 4x 64 token windows per document) via the HuggingFace model hub:
+
+* **IDCM** (re-ranking model): https://huggingface.co/sebastian-hofstaetter/idcm-distilbert-msmarco_doc
+
+    For a minimal usage example of the IDCM model check out our notebook [minimal_idcm_usage_example.ipynb](minimal_idcm_usage_example.ipynb) here or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sebastian-hofstaetter/intra-document-cascade/blob/master/minimal_idcm_usage_example.ipynb)
 
 ## Source Code
 

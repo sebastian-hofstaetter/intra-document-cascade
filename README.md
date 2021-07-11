@@ -38,5 +38,6 @@ We provide the following full-trained DistilBERT-based IDCM model (cascading 4x 
 
 ## Source Code
 
-*Coming soon*
+The full source-code for our paper is here, as part of our matchmaker library: https://github.com/sebastian-hofstaetter/matchmaker
 
+We have getting started guides for training teachers & students, as well as a range of other possibilities for neural re-ranking training.
